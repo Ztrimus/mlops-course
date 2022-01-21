@@ -25,3 +25,5 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku master```
 ````
+
+https://github.com/JosephItopa/My_Best_Projects/tree/MLOps-for-AI-Engineers-and-Data-Scientist/Solar_Energy_Project/solar-app
